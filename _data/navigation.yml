@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Presentations and Publications"
     url: /publications/
 
   #- title: "Talks"
     #url: /talks/    
 
-  - title: "Teaching"
+  - title: "Professional Activities"
     url: /teaching/ 
 
-  - title: "ECE551"
+  # - title: "ECE551"
     url: /ECE551_lectures/ 
     
   #- title: "Portfolio"
