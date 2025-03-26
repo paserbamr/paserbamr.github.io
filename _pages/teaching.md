@@ -6,22 +6,15 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-<b>At University of Michigan</b>
+<b>Honors and Awards</b>
 ======
-* Lecturer: (ECE551) <em>Matrix Methods for Signal Processing, Data Analysis and Machine Learning </em>, Fall 2024.<br> 
+* Richard and Eleanor Towner Prize for Distinguished Academic Achievment, University of Michigan (2025)<br>
+* Rackham Candidate Research Grant, University of Michigan (2024)<br>
+* Rackham Conference Travel Grant, University of Michigan (2024)<br>
+* Rackham Precandidate Research Grant, University of Michigan (2023)<br>
+* University Scholarship, Case Western Reserve University (2018-2022)<br>
+* Bernstein Memorial Award, Case Western Reserve University (2022)<br>
 
-<b>At University of Southern California</b>
+<b>Professional Activities</b>
 ======
-* Teaching Assistant: (EE141) <em>Applied Linear Algebra for Engineering </em>, Fall 2022.<br> 
-* Teaching Assistant: (EE588) <em>Optimization for the Information and Data Sciences</em>, Fall 2021.<br> 
-* Teaching Assistant: (EE503) <em>Probability for Electrical and Computer Engineers</em>, Spring 2021.<br> 
-* Teaching Assistant: (EE141) <em>Applied Linear Algebra for Engineering </em>, Fall 2020.<br> 
-* Teaching Assistant: (EE483) <em> Introduction to Digital Signal Processing </em>, Spring 2020.<br> 
-* Teaching Assistant: (EE483) <em> Introduction to Digital Signal Processing </em>, Fall 2019.<br> 
 
-<b>At Universidad de Chile</b>
-======
-* Teaching Assistant: (EL7024) <em>Information Theory</em>, Spring 2014.<br> 
-* Teaching Assistant: (EL3005) <em>Signals and Systems I</em>, Fall 2013.<br> 
-* Teaching Assistant: (EL4003) <em>Signals and Systems II (Estimation and Detection Theory)</em>, Spring 2013.<br>
