@@ -1,40 +1,23 @@
 ---
 layout: archive
-title: "ECE551"
-permalink: /ECE551_lectures/
+title: "Professional Activities"
+permalink: /Professional_Activities/
 author_profile: true
 ---
 
 {% include base_path %}
 
+{% include base_path %}
+<b>Honors and Awards</b>
+======
+* [Sister Mary Ambrosia Fitzgerald Mentorship Award] (https://wise.umich.edu/willie-hobbs-moore-awards/) (2025) <br>
+* [Richard and Eleanor Towner Prize for Distinguished Academic Achievement, University of Michigan] (https://bme.umich.edu/2025/02/28/congratulations-to-the-2025-coe-student-leaders-honors-award-recipients-from-bme/) (2025)<br>
+* Rackham Candidate Research Grant, University of Michigan (2024)<br>
+* Rackham Conference Travel Grant, University of Michigan (2024)<br>
+* Rackham Precandidate Research Grant, University of Michigan (2023)<br>
+* University Scholarship, Case Western Reserve University (2018-2022)<br>
+* Bernstein Memorial Award, Case Western Reserve University (2022)<br>
 
-<b>Evolving lecture-by-lecture topics</b>
+<b>Professional Activities</b>
 ======
 
-* Lecture 1 (Aug. 27th, 2024): Fields; Vector spaces; Linear operators and matrix representation (book Chapter 1).
-* Lecture 2 (Aug. 29th, 2024): Matrices (adjoint, linear-operator perspective); Vector-vector multiplication (inner product and outer product) (book Chapter 2).
-* Lecture 3 (Sept. 3rd, 2024): Matrix-matrix multiplication; Invertibility; Orthogonality; Orthogonal/Unitary matrices (book Chapter 2)
-* Lecture 4 (Sept. 6th, 2024): Determinant; Eigenvalues; Eigenvectors (book Chapter 2 and 3)
-* Lecture 5 (Sept. 10th, 2024): Unitary eigendecomposition; Normal matrices; SVD (definition) (book Chapter 3)
-* Lecture 6 (Sept. 12th, 2024): Relationships between eigendecomposition and SVD; non-uniqueness of SVD  (book Chapter 3)
-* Lecture 7 (Sept. 17th, 2024): Subspaces; Linear Independency; Bases; Dimension  (book Chapter 4)
-* Lecture 8 (Sept. 19th, 2024): Sum of subspaces; Range; Rank; Nullspace (book Chapter 4)
-* Lecture 9 (Sept. 24th, 2024): Decomposition Theorem; Nullity + rank thm.; Four fundamental subspaces; Anatomy of SVD  (book Chapter 4)
-* Lecture 10 (Sept. 26th, 2024): Projection onto a subset; Signal classification by nearest subset; Convex sets  (book Chapter 4)
-* Lecture 11 (Oct. 1st, 2024): Convex functions; Linear least-squares estimation; LLS and SVD; Moore-Penrose pseudoinverse  (book Chapter 4-5)
-* Lecture 12 (Oct. 3rd, 2024): Pseudoinverse and SVD; LLS using peseudoinverse; Minimum-norm LLS solution via pseudoinverse (book Chapter 5)
-* Lecture 13 (Oct. 8th, 2024): Condition number; Tikhonov regularization; Projection matrices (book Chapter 5)
-* Lecture 14 (Oct. 10th, 2024): Orthogonal projection matrices; Projection onto a subspace (revisited); Vector norms (book Chapter 5-6)
-* Lecture 15 (Oct. 17th, 2024): Unitarily invariant vector norms; Inner products; Cauchy-Schwarz inequality; Matrix norms (book Chapter 6)
-* Lecture 16 (Oct. 22nd, 2024): Induced matrix norms; Matrix inner product inequalities; Singular values inequalities; Spectral radius (book Chapter 6)
-* Lecture 17 (Oct. 24th, 2024): Procuste Analysis (book Chapter 6)
-* Lecture 18 (Oct. 29th, 2024): Low-rank approximation via Frobenius norm; Eckart-Young-Mirsky thm: Non-uniqueness of LR approx.  (book Chapter 7)
-* Lecture 19 (Oct. 31st, 2024): Multidimensional scaling (book Chapter 7)
-* Lecture 20 (Nov. 05th, 2024): Proximal Operators; Soft/hard thresholding; General unitarily invariant formulation (low-rank approximation) (book Chapter 7)
-* Lecture 21 (Nov. 07th, 2024): Rank selection; SURE estimator; OptShrink  (book Chapter 7)
-* Lecture 22 (Nov. 12th, 2024): Companion matrices; Vandermonde matrices; Circulant matrices and the DFT  (book Chapter 8)
-* Lecture 23 (Nov. 14th, 2024): Toeplitz matrices; Power Iieration: Gersgorin disks  (book Chapter 8)
-* Lecture 24 (Nov. 19th, 2024): Square nonnegative matrices; Positive matrices; Primitive matrices; Irreducible matrices  (book Chapter 8)
-* Lecture 25 (Nov. 21th, 2024): Perron-Frobenius Theorems; Preconditioned gradient descent (convergence); Lipschitz functions; Nesterov's method  (book Chapter 9)
-* Lecture 26 (Nov. 26th, 2024): Matrix completion; Noiseless case: Solution through alternating projection method  (book Chapter 10)
-* Lecture 27 (Dec. 3rd, 2024): Matrix completion; Noisy case: Majorize-minimize optimization  (book Chapter 10)
