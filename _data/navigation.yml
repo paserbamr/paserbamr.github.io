@@ -7,10 +7,10 @@ main:
     #url: /talks/    
 
   - title: "Professional Activities"
-    url: /teaching/ 
+    url: /Professional_Activities/ 
 
   # - title: "ECE551"
-    url: /ECE551_lectures/ 
+    #url: /ECE551_lectures/ 
     
   #- title: "Portfolio"
     #url: /portfolio/
