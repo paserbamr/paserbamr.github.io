@@ -20,4 +20,9 @@ author_profile: true
 
 <b>Professional Activities</b>
 ======
-
+* Society of Women Engineers (SWE)
+    * GradSWE at the University of Michigan
+        * Co-Director (2023-Present)
+        * External Affairs Officer (2022-2023)
+    * SWE at Case Western Reserve University
+        * Secretary and Director of Communications (2019-2022)
