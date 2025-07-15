@@ -9,11 +9,15 @@ author_profile: true
   
 {% include base_path %}
 ======
+* Florentino, R.M., Animasahun, O., Haep, N., Nenwani, M., Omoloja, K., Nurcihan Altay, L., Achreja, A., Morita, K. Motomura, T., Diaz-Aragon, R., FAccioli, L.A.P., Wuchu, F., Shankaran, A., <b>Paserba, M.</b>, Baratta, A.M., Arazov, S., Kocas-Kilicarslan, Z.N., Meurs, N., Behari, J. Tafaleng, E.N., Franks, J., Ostrowska, A., Tomiyama, T., Yugawa, K., Morinaga, A., Wang, Z., Takeishi, K., Gavlock, D.C., Miedel, M., Lansing Taylor, D., Fox, I.J., Yoshizumi, T., Nagrath, D., Soto-Gutierrez, A. Lipid metabolism associated PNPLA3 rs738409 variant promotes metabolic rewiring that leads to programmed cell death in human hepatocytes. <em> Under Review.</em>
+
 *  Ballard, C., <b>Paserba, M.</b>, Paul Daniel, E.J., Hurado-Guerrero, R., Gerken, T.A. [Polypeptide N-acetylgalactosaminyltransferase (GalNAc-T) isozyme surface charge governs charge substrate preferences to modulate mucin type O-glycosylation.](https://academic.oup.com/glycob/article/33/10/817/7239863)<em> Glycobiology</em> 33:817-836, 2023.
 
 * Marvar, J., Kumari, A., Onukwugha, N.E., Achreja, A., Meurs, N., Animashun, O., Roy, J., <b>Paserba, M.</b>, Srinivasa, R.K., Fortna, S., Ramnath, N., Nagrath, D., Kang, Y.T., Nagrath, S. [Porous PDMS-based microsystem (ExoSponge) for rapid cost-effective tumor extracellular vesicle isolation and mass spectrometry-based metabolic biomarker screening.](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admt.202201937) <em> Advanced Materials Technologies </em>, 9:2210937, 2023.
 
-* Florentino, R.M., Animasahun, O., Haep, N., Nenwani, M., Omoloja, K., Nurcihan Altay, L., Achreja, A., Morita, K. Motomura, T., Diaz-Aragon, R., FAccioli, L.A.P., Wuchu, F., Shankaran, A., <b>Paserba, M.</b>, Baratta, A.M., Arazov, S., Kocas-Kilicarslan, Z.N., Meurs, N., Behari, J. Tafaleng, E.N., Franks, J., Ostrowska, A., Tomiyama, T., Yugawa, K., Morinaga, A., Wang, Z., Takeishi, K., Gavlock, D.C., Miedel, M., Lansing Taylor, D., Fox, I.J., Yoshizumi, T., Nagrath, D., Soto-Gutierrez, A. [Lipid metabolism associated PNPLA3 rs738409 variant promotes metabolic rewiring that leads to programmed cell death in human hepatocytes.] <em> Under Review.</em>
+<b>Oral Presentations</b>
+======
+* <b>Paserba, M.</b>, Synergy in Action: Reshaping Expertise through AI-Driven Iteration. <em>Genentech NextGen AI</em>; 2025 July, South San Francisco, CA.
 
 <b>Poster Presentations</b>
 ======
